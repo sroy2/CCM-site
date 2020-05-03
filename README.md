@@ -47,7 +47,7 @@ The final grade is based on the homeworks (60%) and the final project (40%). We 
 Class participation will be used to decide grades in borderline cases. As we only meet once a week, class attendance is obviously important for success in the class.
 
 ## Final Project
-The final project proposal is due Monday, April 6 (one half page written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
+The final project proposal is due Monday, April 6 (0.5 pages written). Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-proposal.pdf.
 
 The final project is due Wednesday 5/13. Please submit via email to instructors-ccm-spring2020@nyuccl.org with the file name lastname1-lastname2-lastname3-ccm-final.pdf.
 
@@ -70,18 +70,18 @@ Live discussion is on Mondays 1:35-2:35 PM (via NYU classes Zoom tool)
 - 2/24 : Reinforcement learning (part 1) ([slides](lectures/lecture-04-reinforcementlearning.pdf))
 - 3/2 : Reinforcement learning (part 2) ([slides](lectures/lecture-05-reinforcementlearning.pdf))
   - Homework 2 assigned (Due 3/27) (instructions for accessing [here](retrieving_hw.md))
-- 3/9 : Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))
+- 3/9 : Reinforcement learning (part 3) ([slides](lectures/lecture-06-reinforcementlearning.pdf))([video](https://vimeo.com/404085989))
 - 3/16 : NO CLASS - Spring recess
 - 3/23 : Bayesian modeling (part 1) ([slides](lectures/lecture-07-bayesian_modeling.pdf)) ([video](https://vimeo.com/399514147))
-  - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md)) 
+  - Homework 3 assigned (Due 4/13) (instructions for accessing [here](retrieving_hw.md))
 - 3/30 : Bayesian modeling (part 2) (for slides see part 1) ([video](https://vimeo.com/400435600))
-- 4/6 : Rational vs. mechanistic modeling
+- 4/6 : Model comparison and fitting, tricks of the trade ([slides](lectures/lecture-09-modelfit.pdf))([video](https://vimeo.com/404348821))
   - Project proposal due (Monday April 6)
-- 4/13 : Model comparison and fitting, tricks of the trade
-- 4/20 : Categorization
+- 4/13 : Categorization ([slides](lectures/lecture-10-categorization.pdf)) ([video](https://vimeo.com/407047389))
   - Homework 4 assigned (Due 5/4) (instructions for accessing [here](retrieving_hw.md))
-- 4/27 : Probabilistic Graphical models
-- 5/4 : Program induction and language of thought models
+- 4/20 : Probabilistic Graphical models ([slides](lectures/lecture-11-graphical_models.pdf)) ([video](https://vimeo.com/407755101))
+- 4/27 : Information sampling and active learning ([slides](lectures/lecture-12-activelearning.pdf)) ([video](https://vimeo.com/412183257))
+- 5/4 : Program induction and language of thought models ([slides](lectures/lecture-13-program_induction.pdf)) ([video](https://vimeo.com/410406345))
 - 5/11 : Computational Cognitive Neuroscience
 - Final project due (Wednesday 5/13)
 
@@ -98,8 +98,8 @@ Tuesdays 2:40-3:30 PM (via NYU classes Zoom tool)
 - 3/24 : Probability review
 - 3/31 : No lab
 - 4/7 : HW 3 Review
-- 4/14 : TBD
-- 4/21 : TBD
+- 4/14 : No lab
+- 4/21 : No lab
 - 4/28 : HW 4 Review
 - 5/5 : TBD
 - 5/12 : No lab (classes end 5/11)
@@ -171,7 +171,7 @@ We will take off 10% for each day a homework or final project is late. Assignmen
 If you are requesting an extension, email the teaching team (instructors-ccm-spring2020@nyuccl.org) and explain the reason. You must submit a request for extension at least 24 hours before the due date of the assignment.
 
 **Regrading**:  
-If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds.
+If you feel there was a mistake in the grading of your assignment, you can formally request a regrade by emailing the teaching team. This will prompt us to regrade the entire assignment and could lead to your grade being either raised or lowered depending on what the regrade finds. You can submit a regrade request via gradescope.
 
 **Did you forget to turn in part of the homework, or did it print improperly?**:  
 Before turning in your assignment, double check that all of your answers appear clearly in the PDF printout. We will not regrade a homework because your answer did not display correctly in the version you submitted.
